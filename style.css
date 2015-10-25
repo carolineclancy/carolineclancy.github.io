@@ -16,6 +16,7 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  
 }
 body {
   margin: 0;
@@ -1106,7 +1107,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #158cba;
+  color: #FF0080;
   text-decoration: underline;
 }
 a:focus {
