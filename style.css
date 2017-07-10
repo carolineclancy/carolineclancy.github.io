@@ -51,6 +51,15 @@
     height: 70px;
     width:70px;
   }
+
+.bw {
+  -webkit-filter: none;
+}
+
+.git{
+  opacity: 1;
+}
+
   }
 
 /*B&W*/
