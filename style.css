@@ -34,8 +34,10 @@
   padding-right: 13%;
   };
   #contact {
+    height: auto;
     background: url("carolmobile.jpg") no-repeat center center fixed;
-     height: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
     #resume {
     width: 13%;
@@ -142,7 +144,7 @@ html {
   width: 100%;
   height: 500px; 
   /*z-index: 0;*/
-  background-image: url("homePage.png");
+  background-image: url("carol3.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
       /* Full height */
