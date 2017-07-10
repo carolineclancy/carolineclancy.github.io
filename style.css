@@ -21,6 +21,16 @@
   #home {
     width: 10%;
     height: auto; 
+      background-image: url("homePage.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+      /* Full height */
+
+  z-index:-1;
+  background-size: cover;
+ /* padding-left: 5%;*/
+    padding-left: 10%;
+  padding-right: 13%;
   };
     #resume {
     width: 10%;
