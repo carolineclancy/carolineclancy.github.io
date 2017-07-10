@@ -17,13 +17,23 @@
   @media only screen and (max-width: 480px) {
        h1 { font-size: 36px !important; 
             padding-bottom: 40%;}
-
-        nav ul     { display: none; }
-  nav select { display: inline-block; }
+  
   #home {
     width: 10%;
     height: auto; 
   };
+    #resume {
+    width: 10%;
+    height: auto; 
+  };
+  .bw{
+    height: 70px;
+    width:70px;
+  }
+  .git{
+    height: 70px;
+    width:70px;
+  }
      }
 
 /*B&W*/
